@@ -68,7 +68,8 @@ Soy **Ingeniero en Sistemas**, certificado como **QA Engineer**, con experiencia
 
 ## Contacto
 - Email: sanchezjavier.28alex@gmail.com
+- Teléfono: 937 137 41 92
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/javier-alejandro-sánchez)
-- GitHub: Sanchez-Javier
+- GitHub: [Sanchez-Javier](https://github.com/Sanchez-Javier)
 
 ¡Gracias por leer mi perfil!
