@@ -9,9 +9,6 @@ Soy **Ingeniero en Sistemas**, certificado como **QA Engineer**, con experiencia
 - Actualmente he concluido satisfactoriamente el **bootcamp en Quality Assurance Engineering** de Tripleten LaTam.
 - Desarrollando habilidades en **automatización de pruebas**, **pruebas API** y **pruebas en bases de datos**.
 
-## Redes Sociales:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/javier-alejandro-sánchez) 
-
 ## Habilidades y herramientas
 
 - **Pruebas de Software:** Pruebas manuales, UI Testing, pruebas de regresión, debugging.
@@ -68,5 +65,10 @@ Soy **Ingeniero en Sistemas**, certificado como **QA Engineer**, con experiencia
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+
+## Contacto
+- Email: sanchezjavier.28alex@gmail.com
+- Linkedin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/javier-alejandro-sánchez)
+- GitHub: Sanchez-Javier
 
 ¡Gracias por leer mi perfil!
